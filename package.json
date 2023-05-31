@@ -1,0 +1,21 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "description": "to remove unwanted content from pdf",
+  "main": "regex.js",
+  "devDependencies": {
+    "is-verb": "^1.0.1",
+    "plain-text-data-to-json": "^2.0.0",
+    "pos": "^0.4.2",
+    "sentence-splitter": "^4.2.0",
+    "word-definition": "^2.1.6",
+    "word-to-numbers": "^1.0.0",
+    "words-to-numbers": "^1.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
