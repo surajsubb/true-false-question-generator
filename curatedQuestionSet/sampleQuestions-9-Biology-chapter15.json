@@ -1,0 +1,42 @@
+[
+  {
+    "Statement": "For new varieties of crops to be accepted, it is necessary that the variety produces high yields under different conditions that are found in different areas",
+    "Answer": "True"
+  },
+  {
+    "Statement": "If weeds and pests are not controlled at the appropriate time then weeds and pests can damage field crops so much that most of the crop is lost",
+    "Answer": "True"
+  },
+  {
+    "Statement": "The food requirements of dairy animals are of two types: maintenance requirement, which is the food required to support the animal to live a healthy life, and milk producing requirement, which is the type of food required during the lactation period",
+    "Answer": "True"
+  },
+  {
+    "Statement": "The water source of the fish can be either seawater or fresh water, such as in rivers and ponds",
+    "Answer": "True"
+  },
+  {
+    "Statement": "Most agriculture in India is rain-fed, that is, the success of crops in most areas is dependent on timely monsoons and sufficient rainfall spread through most of the growing season",
+    "Answer": "True"
+  },
+  {
+    "Statement": "As the population increases and as living standards increase, the demand for milk, eggs and meat is also going up",
+    "Answer": "True"
+  },
+  {
+    "Statement": "To overcome a major problem in fish farming, ways have now been worked out to breed these fish in ponds using electrical stimulation",
+    "Answer": "False"
+  },
+  {
+    "Statement": "One problem with such composite fish culture is that many of these fish breed only during winter.",
+    "Answer": "False"
+  },
+  {
+    "Statement": "The water source of the fish can be either sewage or fresh water, such as in rivers and ponds.",
+    "Answer": "False"
+  },
+  {
+    "Statement": "Dwarfness is desired in cereals, so that more nutrients are consumed by these crops.",
+    "Answer": "False"
+  }
+]

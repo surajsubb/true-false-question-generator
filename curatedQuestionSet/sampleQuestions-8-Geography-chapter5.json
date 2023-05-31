@@ -1,0 +1,12 @@
+[
+ {"Statement": "Industrial regions emerge when a number of industries locate close to each other and share the benefits of each other closeness", "Answer": "True"}, 
+ {"Statement": "Production of automobiles and heavy machinery are large scale industries", "Answer": "True"}, 
+ {"Statement": "Size refers to the amount of capital invested, number of people employed and the volume of production", "Answer": "True"}, 
+ {"Statement": "Finished steel is transported to the market by both land and water routes", "Answer": "True"}, 
+ {"Statement": "Major industrial regions of the world are eastern North America, western and central Europe, eastern Europe and eastern Asia", "Answer": "True"}, 
+ {"Statement": "Basket weaving, pottery and other handicrafts is examples of cottage industry","Answer": "True"},
+ {"Statement": "The countries in which iron and steel industry is located are Germany, Britain and Japan and Russia.", "Answer": "False"}, 
+ {"Statement": "Size refers to the amount of land invested, number of people hired and the volume of production.", "Answer": "False"}, 
+ {"Statement": "An industrial system consists of manufacturing processes and equipment.", "Answer": "False"}, 
+{"Statement": "Labor activities or methods change raw materials into products", "Answer": "False"}
+]

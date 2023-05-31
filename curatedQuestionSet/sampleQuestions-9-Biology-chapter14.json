@@ -1,0 +1,12 @@
+[
+ {"Statement": "The atmosphere can be heated from below by the radiation that is reflected back or re-radiated by the land or water bodies.", "Answer": "True"}, 
+ {"Statement": "The air, the water and the soil form the non-living or abiotic component of the biosphere.", "Answer": "True"}, 
+ {"Statement": "Since all parts of the rock do not expand and contract at the same rate, this results in the formation of cracks and ultimately the huge rocks break up into smaller pieces.", "Answer": "True"}, 
+ {"Statement": "Fertile soil can quickly be turned barren if sustainable practices are not followed.", "Answer": "True"}, 
+ {"Statement": "Nitrogen gas makes up 78% of our atmosphere and nitrogen is also a part of many molecules essential to life like proteins, nucleic acidsand some vitamins.  ", "Answer": "True"}, 
+ {"Statement": "Carbon is incorporated into life-forms through the basic process of photosynthesis which is performed in the presence of Sunlight by all life-forms that contain chlorophyll.","Answer": "True"},
+ {"Statement": "When we talk of the oxygen-cycle, we are mainly referring to the cycle that raises the levels of ozone in the atmosphere erection.", "Answer": "False"}, 
+ {"Statement": "During the day, the direction of the wind would be from the land to the sea.", "Answer": "False"}, 
+ {"Statement": "We know that air is a bad conductor of force", "Answer": "False"}, 
+{"Statement": "In planets such as Venus and Mars, where no life is known to exist, the major component of the atmosphere is found to be methane dioxide.", "Answer": "False"}
+]

@@ -1,0 +1,12 @@
+[
+ {"Statement": "People and their demands are ever growing but theavailability of land is limited", "Answer": "True"}, 
+ {"Statement": " The thin layer of grainy substance covering the surface of the earth is called soil", "Answer": "True"}, 
+ {"Statement": "The major factors of soil formation are the nature of the parent rock and climatic factors.", "Answer": "True"}, 
+ {"Statement": "Factors which lead to soil degradation are deforestation, overgrazing, overuse of chemical feritilisers or pesticides, rain wash, landslides and floods. ", "Answer": "True"}, 
+ {"Statement": "Nearly 70 per cent of this occurs as ice sheets and glaciers in Antarctica, Greenland and mountain regions.", "Answer": "True"}, 
+ {"Statement": "Forest and other vegetation cover slow the surface runoff and replenish underground water","Answer": "True"},
+ {"Statement": "Changes of technology and human interferences can cause the loss of natural habitats for the plants and animals.", "Answer": "False"}, 
+ {"Statement": "In Intercropping, different crops are grown in one field and are sown at different times to protect the soil from rain wash", "Answer": "False"}, 
+ {"Statement": "Soil stress and depletion are the major threats to soil as a resource.", "Answer": "False"}, 
+{"Statement": "The use of land is determined by physical factors such as fertile soil, climate, minerals and availability of water.", "Answer": "False"}
+]

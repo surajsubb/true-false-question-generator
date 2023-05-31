@@ -1,0 +1,12 @@
+[
+ {"Statement": "In India, there is a total of 55 rock shelters in the country", "Answer": "True"}, 
+ {"Statement": "Biosphere reserves help to maintain the biodiversity and culture of the area", "Answer": "True"}, 
+ {"Statement": "Wildlife Sanctuary are areas where animals are protected from any disturbance to animals and animals habitat", "Answer": "True"}, 
+ {"Statement": "Some natural causes of deforestation are forest fires and severe droughts", "Answer": "True"}, 
+ {"Statement": "Wildlife Sanctuary are areas where animals are protected from any disturbance to animals and animals habitat", "Answer": "True"}, 
+ {"Statement": "Animals whose numbers are diminishing to a level that whose numbers might face extinction are known as the endangered animals","Answer": "True"},
+ {"Statement": "The increase in temperature on Earth disturbs the carbon cycle and may reduce rainfall.", "Answer": "False"}, 
+ {"Statement": "Wild species are those species of plants and animals which are found exclusively in a particular area.", "Answer": "False"}, 
+ {"Statement": "Animals whose numbers are diminishing to a level that whose numbers might face extinction are known as the declining animals.", "Answer": "False"}, 
+{"Statement": "Bori and Mata are two of the most important rock shelters of the country and are located in a part of the Reserve Forest.", "Answer": "False"}
+]

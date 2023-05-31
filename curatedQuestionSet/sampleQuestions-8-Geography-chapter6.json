@@ -1,0 +1,12 @@
+[
+ {"Statement": "Many more people live north of the Equator than south of the Equator", "Answer": "True"}, 
+ {"Statement": " Diamond mines of South Africa and discovery of oil in the Middle east lead to settling of people in areas with minerals", "Answer": "True"}, 
+ {"Statement": " The general trend of international migrations is from the less developed nations to the more developed nations in search of better employment opportunities", "Answer": "True"}, 
+ {"Statement": " Countries like the United States of America and Australia have gained in-numbers by in-migration or immigration", "Answer": "True"}, 
+ {"Statement": "the population pyramid also tells us how many dependents there are in a country", "Answer": "True"}, 
+ {"Statement": "The way in which people are spread across the earth surface is known as the pattern of population distribution","Answer": "True"},
+ {"Statement": "The number of world’ population is measured by the absolute density of the land surface", "Answer": "False"}, 
+ {"Statement": "Crime and deaths are the natural causes of population change.", "Answer": "False"}, 
+ {"Statement": "The way in which people are spread across the earth surface is known as the axis of mass distribution.", "Answer": "False"}, 
+{"Statement": "Average density refers to the total area of people living in a unit area of the earth’s surface.", "Answer": "False"}
+]

@@ -1,0 +1,12 @@
+[
+ {"Statement": "Severe winters restrict the growing season and only a single crop", "Answer": "True"}, 
+ {"Statement": "Intensive subsistence agriculture is prevalent in the thickly populated areas of the monsoon regions of south, southeast and east Asia", "Answer": "True"}, 
+ {"Statement": " Favourable topography of soil and climate are vital for agricultural activity in these areas", "Answer": "True"}, 
+ {"Statement": "Transport, trade, banking, insurance and advertising are examples of tertiary activities", "Answer": "True"}, 
+ {"Statement": "Maize is grown in North America, Brazil, China, Russia, Canada, India, and Mexico.", "Answer": "True"}, 
+ {"Statement": "Tertiary activities provide support to the primary and secondary sectors through services.","Answer": "True"},
+ {"Statement": "Cotton, sugar, coffee and tea cane are the main crops of tea in Europe thus farming in plantation lands is a major activity in the world.", "Answer": "False"}, 
+ {"Statement": "Climate with large number of days with sunshine and fertile soils permit crops of more than one season annually on the same plot.", "Answer": "False"}, 
+ {"Statement": "In intensive urban agriculture the farmer cultivates a small plot of the land using simple seeds and more labour.", "Answer": "False"}, 
+{"Statement": "Nomadic hunting is practised in the semi-arid and arid regions of Sahara, Central Asia and some parts of India, like Rajasthan and Jammu and Kashmir.", "Answer": "False"}
+]

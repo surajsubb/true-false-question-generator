@@ -1,0 +1,12 @@
+[
+ {"Statement": "In animals which undergo external fertilisation, development of the developing embryo takes place outside the female body", "Answer": "True"}, 
+ {"Statement": "Female reproductive organs in animals produce a male gamete called a gamete (eggs)", "Answer": "True"}, 
+ {"Statement": "This type of fertilisation in which the fusion of a male and a female gamete takes place outside the body of the female is called external fertilisation", "Answer": "True"}, 
+ {"Statement": "In human beings, a single matured egg is released into the oviduct by one of the ovaries every month", "Answer": "True"}, 
+ {"Statement": "Thousands to millions of eggs are fertilised in a human being", "Answer": "True"}, 
+ {"Statement": "Type of asexual reproduction in which an animal reproduces by dividing into two individuals is called binary fission.","Answer": "True"},
+ {"Statement": "The male reproductive organs are a pair of ovaries, oviducts (fallopian tubes) and the uterus.", "Answer": "False"}, 
+ {"Statement": "In animals which undergo external fertilisation, part of the developing embryo take place outside the female body.", "Answer": "False"}, 
+ {"Statement": "In human beings, a new matured gene is released into the oviduct by one of the ovaries every month.", "Answer": "False"}, 
+{"Statement": "The first step in the process of reproduction is the mixing of a sperm and an embryo.", "Answer": "False"}
+]

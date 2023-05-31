@@ -1,0 +1,12 @@
+[
+ {"Statement": "Some microorganisms grow on other organisms while others exist freely", "Answer": "True"}, 
+ {"Statement": "Yeast is used for commercial production of alcohol and wine", "Answer": "True"}, 
+ {"Statement": "These days a number of antibiotics are being produced from bacteria and fungi", "Answer": "True"}, 
+ {"Statement": "Nitrogen is then used for the synthesis of plant proteins and other compounds", "Answer": "True"}, 
+ {"Statement": "Viruses, however, reproduce only inside the cells of the host organism, which may be a bacterium, plant or animal", "Answer": "True"}, 
+ {"Statement": "The process of conversion of sugar into alcohol is known as fermentation","Answer": "True"},
+ {"Statement": "ron is then used for the synthesis of plant proteins and other compounds.", "Answer": "False"}, 
+ {"Statement": "These days a number of antibiotics are being produced from bacteria and algae.", "Answer": "False"}, 
+ {"Statement": "Corn is used for commercial production of alcohol and wine.", "Answer": "False"}, 
+{"Statement": "Common ailments like cold, asthma and most coughs are caused by viruses.", "Answer": "False"}
+]

@@ -1,0 +1,30 @@
+{   "Subject": "Geography",
+    "Teacher": "Ram",
+    "QuizTopic" : "<Topic of Quiz>",
+    "QuizId" : 12345,
+    "Questions": [
+        {
+            "Statement": "India\u2019s natural vegetation has undergone many changes due to several factors, such as the growing demand for cultivated land, development of industries and mining, urbanisation and over-grazing of pastures.The vegetation cover of India in large parts is no more natural in the real sense\n",
+            "Answer": "True"
+        },
+        {
+            "Statement": "The undulating and rough terrains are areas where grassland and woodlands develop and give shelter to a variety of wildlife.The soils also vary over space\n",
+            "Answer": "False"
+        },
+        {
+            "Statement": "The trees reach great heights up to 60 metres or even above.With about 47,000 plant species found in India, including more than 20,000 species of flowering plants\n",
+            "Answer": "False"
+            
+        },
+        {
+            "Statement": "The trees reach great heights up to 60 metres or even above.With about 47,000 plant species found in India, including more than 20,000 species of flowering plants\n",
+            "Answer": "True"
+            
+        },
+        {
+            "Statement": "The trees reach great heights up to 60 metres or even above.With about 47,000 plant species found in India, including more than 20,000 species of flowering plants\n",
+            "Answer": "False"
+        
+        }
+    ]
+}

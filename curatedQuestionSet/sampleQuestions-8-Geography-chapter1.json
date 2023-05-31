@@ -1,0 +1,12 @@
+[
+ {"Statement": "Improving the quality of people’s skills so that they are able to make use of more natural resources is also a human made resource", "Answer": "True"}, 
+ {"Statement": " The discovery of fire led to the practice of cooking and other processes while the invention of the wheel ultimately resulted in development of newer modes of transport", "Answer": "True"}, 
+ {"Statement": " Time and technology are two important factors that can change substances into resources", "Answer": "True"}, 
+ {"Statement": "Non-renewable resources are those which have a limited stock", "Answer": "True"}, 
+ {"Statement": "Shortage and drying up of natural water sources is a major problem in many parts of the world today", "Answer": "True"}, 
+ {"Statement": "Utility or usability is what makes an object or substance a resource\n","Answer": "True"},
+ {"Statement": "Renewable resources are those which are used quickly.", "Answer": "False"}, 
+ {"Statement": "Natural resources can be broadly categorised into renewable and hazardous resources.", "Answer": "False"}, 
+ {"Statement": "The technology to create hydroelectricity has turned energy in oil and water into an important resource", "Answer": "False"}, 
+{"Statement": "Improving the quality of people’s skills so that they are able to create more resources is known as natural resource enhancement.", "Answer": "False"}
+]

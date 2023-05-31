@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% block title %}Quiz{% endblock %}
+
+{% block content %}
+      <h2 style="color: white; text-align: center;">Edit Your Questions</h2>
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="well bs-component">
+            <form class="quizForm" method="POST" action="{{ url_for('main.editQuiz') }}">
+              <fieldset>
+                <div>
+                  {% for question in questions%}
+                  <!-- <h4>Question No {% print(question.id) %}</h4> -->
+                  <div class="questionGroup">
+                      <div class="questionDiv">
+                        <div class="answer">
+                          <h5 class="question">{% print(question.id) %}</h5>  
+                          <input style="font-weight: 550; width: 100%; background-color: white; color: black;"  type="text" id="{{question.id|string + 'question'}}" value="{{question.Statement|string}}" name="{{question.id|string + 'question'}}">
+                          <br>
+                          <label for="answer" class="col-lg-2 control-label">Answer</label>
+                          <div class="col-lg-10">
+                            <select class="form-control" style="font-weight: 550; width: 10%; background-color: white; color: black;" name="{{question.id|string +'answer'}}" id="{{question.id|string +'answer'}}">
+                              {% if question.Answer == 'True' %}
+                                <option selected="selected" value="True">True</option>
+                              {% else %}
+                                <option value="True">True</option>
+                              {% endif %}
+
+                              {% if question.Answer == 'False' %}
+                                <option selected="selected" value="False">False</option>
+                              {% else %}
+                                <option value="False">False</option>
+                              {% endif %}
+                            </select>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  {%endfor%}
+                  <div class="form-group">
+                    <div class="col-lg-offset-2">
+                      <button style="font-size: 30px;" type="submit" class="btn btn-primary">Submit</button>
+                    </div>
+                  </div>
+                </fieldset>
+            </form>
+            </div>
+          </div>
+        </div>
+{% endblock %}

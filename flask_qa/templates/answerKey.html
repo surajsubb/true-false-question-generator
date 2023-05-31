@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block title %}Answer Key{% endblock %}
+
+{% block content %}
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="well bs-component">
+            <div class="answerKey">
+                <h4>Subject: {%print(Subject)%}</h4>
+                <h4>Topic: {%print(Topic)%}</h4>
+                {% for question in Questions%}
+                <!-- <h4>Question No {% print(question.id) %}</h4> -->
+                <div class="answerDiv">
+                  <h5 class="question">{% print(question.id) %}. {%print(question.Statement)%}</h5>  
+                  <h5 class="answer">Answer: {% print(question.Answer) %}</h5>
+                </div>
+                {%endfor%}
+            </div>
+          </div>
+        </div>
+{% endblock %}

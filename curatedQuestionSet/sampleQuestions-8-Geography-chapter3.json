@@ -1,0 +1,12 @@
+[
+ {"Statement": "It is not easy to distinguish between metallic minerals, which contain metals and those that do not contain metals", "Answer": "True"}, 
+ {"Statement": "Metallurgical minerals like copper, nickel and iron ore are found throughout the world, including the United States, Canada, Australia, New Zealand, South Africa and South Africa", "Answer": "True"}, 
+ {"Statement": "The leading producers of hydel power in the world are Paraguay, Norway, Brazil, and China", "Answer": "True"}, 
+ {"Statement": "Natural gas is found with petroleum deposits and is released when crude oil is brought to the surface", "Answer": "True"}, 
+ {"Statement": "China and India are among the world‘s leading tin producers", "Answer": "True"}, 
+ {"Statement": "Natural gas is abundant and is the cleanest hydrocarbon, producing around half the carbon dioxide and just one tenth of the air pollutants of coal when burnt to generate electricity","Answer": "True"},
+ {"Statement": "Gold is found in large quantities in the Monozite sands of Kerala.", "Answer": "False"}, 
+ {"Statement": "The leading producers of hydel power in the world are Turkey and Brazil, and China.", "Answer": "False"}, 
+ {"Statement": "Mineral fuels such as charcoal and petroleum are also found in the sedimentary strata.", "Answer": "False"}, 
+{"Statement": "Sedimentary rock formations of old and young high mountains contain non-metallic minerals like limestone.", "Answer": "False"}
+]

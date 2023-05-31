@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block title %}Scores{% endblock %}
+
+{% block content %}
+      <div class="page-header">
+        <h1>Your Scores</h1>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="well bs-component">
+            <table class="table table-striped">
+                <tr>
+                    <th scope="col">Subject</th>
+                    <th scope="col">Quiz Title</th>
+                    <th scope="col">Score</th>
+                    <th scope="col">Answer Key</th>
+                </tr>
+                {% for score in Scores %}
+                <tr>
+                    <td>{%print(score.subject)%}</td>
+                    <td>{%print(score.topic)%}</td>
+                    <td>{%print(score.score)%}</td>
+                    <td><a href="{{ url_for('main.answerKey', quiz_id = score.quizId)  }}">Click Here</a></td>
+                </tr>
+                {%endfor%}
+            </table>
+          </div>
+        </div>
+      </div>
+{% endblock %}

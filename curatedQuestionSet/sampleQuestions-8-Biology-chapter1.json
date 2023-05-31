@@ -1,0 +1,12 @@
+[
+ {"Statement": "Levelling The ploughed field is beneficial for sowing as well as for irrigation", "Answer": "True"}, 
+ {"Statement": "To maintain the moisture of the soil for healthy crop growth, fields have to be watered regularly", "Answer": "True"}, 
+ {"Statement": "Tilling before sowing of crops helps in uprooting and killing of weeds, which may then dry up and get mixed with the soil", "Answer": "True"}, 
+ {"Statement": "If the harvested grains are to be kept for longer time, the harvested grains should be safe from moisture, insects, rats and microorganisms.", "Answer": "True"}, 
+ {"Statement": "The crops which are sown in the rainy season are called kharif crops", "Answer": "True"}, 
+ {"Statement": "The soil allows the roots to breathe easily even when the soil go deep into the soil","Answer": "True"},
+ {"Statement": "Dead plants and weeds get decomposed by soil acid.", "Answer": "False"}, 
+ {"Statement": "Water helps in proper mixing of manure with soil.", "Answer": "False"}, 
+ {"Statement": "To maintain the moisture of the soil for healthy crop growth, soils have to be used regularly.", "Answer": "False"}, 
+{"Statement": "The preparation of manure is the first step before growing a crop or sowing", "Answer": "False"}
+]

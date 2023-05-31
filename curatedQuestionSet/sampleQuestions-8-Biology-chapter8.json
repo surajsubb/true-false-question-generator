@@ -1,0 +1,12 @@
+[
+ {"Statement": "It is not necessary that the cells in the elephant be much bigger than those in a rat", "Answer": "True"}, 
+ {"Statement": "The blood cell is a membrane which separates the blood cell from the blood and the blood from the plasma", "Answer": "True"}, 
+ {"Statement": "Different cells in different tissues are also enclosed in cell wall", "Answer": "True"}, 
+ {"Statement": "Nucleus is generally spherical and located in the centre of the cell", "Answer": "True"}, 
+ {"Statement": "There is an outer thick layer in cells of plants called cell wall", "Answer": "True"}, 
+ {"Statement": "Each organ is further made up of smaller parts called tissues","Answer": "True"},
+ {"Statement": "The entire content of a living cell includes the membrane and the nucleus.", "Answer": "False"}, 
+ {"Statement": "The size of cells in living organisms may be as large as a sixth of a metre (micrometre or micron) or as small as a few centimetres.", "Answer": "False"}, 
+ {"Statement": "The size of the cells has bearing with the growth of the body of the animal or plant.", "Answer": "False"}, 
+{"Statement": "Brain cell is an important part of human body and the plasma is a part of the organ of human blood.", "Answer": "False"}
+]

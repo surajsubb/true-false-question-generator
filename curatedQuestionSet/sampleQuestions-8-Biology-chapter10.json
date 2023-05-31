@@ -1,0 +1,12 @@
+[
+ {"Statement": "The growing voice box in boys can be seen as a protruding part of the throat called Adam‘s apple", "Answer": "True"}, 
+ {"Statement": "In adolescent boys, sometimes, the muscles of the developing voice box go out of control and a high  pitched voice becomes hoarse", "Answer": "True"}, 
+ {"Statement": "Many young people get acne and pimples on the face during adolescence because of the increased activity of these glands in the skin", "Answer": "True"}, 
+ {"Statement": "The period of life, when the body undergoes changes, leading to reproductive maturity, is called adolescence", "Answer": "True"}, 
+ {"Statement": "Some may grow suddenly at puberty and then slow down, while others may grow gradually", "Answer": "True"}, 
+ {"Statement": "The male hormone or testosterone begins to be released by the testes at the onset of puberty","Answer": "True"},
+ {"Statement": "The pituitary also secretes thyroid hormone which is necessary for the normal growth of a person.", "Answer": "False"}, 
+ {"Statement": "Endocrine glands release hormones into the bloodstream to reach a particular body part called ATP site.", "Answer": "False"}, 
+ {"Statement": "The period of life, when the body undergoes changes, leading to emotional maturity, is called adolescence.", "Answer": "False"}, 
+{"Statement": "The male hormone or testosterone begins to be released by the testes at the onset of erection.", "Answer": "False"}
+]

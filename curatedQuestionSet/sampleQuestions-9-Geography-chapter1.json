@@ -1,0 +1,12 @@
+[
+ {"Statement": "Sri Lanka is separated from India by a narrow channel of sea formed by the Palk Strait and the Gulf of Mannar while Maldives Islands are situated to the south of the Lakshadweep Islands", "Answer": "True"}, 
+ {"Statement": "Lying entirely in the Northern hemisphere the mainland extends between latitudes 8\u00b04'N and 37\u00b06'N and longitudes 68\u00b07'E and 97\u00b025'E", "Answer": "True"}, 
+ {"Statement": " South of about 22\u00b0 north latitude, India begins to taper, and extends towards the Indian Ocean, dividing India into two seas, the Arabian Sea on the west and the Bay of Bengal on the Arabian Sea east", "Answer": "True"}, 
+ {"Statement": "India is bounded by the young Himalayas and the Himalayan mountains in the northwest, north and north east", "Answer": "True"}, 
+ {"Statement": "The Deccan Peninsula protrudes into the Indian Ocean, thus helping India to establish close contact with East Asia, Africa and Europe from the western coast and with Southeast and East Asia from the western coast", "Answer": "True"}, 
+ {"Statement": "India is a southward extension of the Asian Continent","Answer": "True"},
+ {"Statement": "The longitudinal extent influences the duration of the day and night, as one moves from south to north", "Answer": "False"}, 
+ {"Statement": "Our southern neighbours across the sea consist of the two island countries, namely Sri Lanka and Thailand.", "Answer": "False"}, 
+ {"Statement": "From Gujarat to Arunachal Pradesh there is a time lag of four hours.", "Answer": "False"}, 
+{"Statement": "Indian landmass has a central location between the Atlantic and the West Asia.", "Answer": "False"}
+]
